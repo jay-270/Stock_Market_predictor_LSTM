@@ -1,18 +1,14 @@
-Steps:
-For Backend:
-Step1:
-first create Virtual environment
-command: `python -m venv venv`
 
-Step2:
+
+Step1:
 install requirements:
 command: `pip install -r requirements.txt`
 
-Step3:
+Step2:
 Run Migrate command:
 command: `python manage.py migrate`
 
-Step4:
+Step3:
 Run server
 command: `python manage.py runserver`
 
